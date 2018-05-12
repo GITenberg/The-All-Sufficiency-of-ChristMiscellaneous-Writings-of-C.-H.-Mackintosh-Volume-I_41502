@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39129
     wikipedia: http://en.wikipedia.org/wiki/Charles_Henry_Mackintosh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41502#The-All-Sufficiency-of-ChristMiscellaneous-Writings-of-C.-H.-Mackintosh-Volume-I
 gutenberg_issued: '2012-11-28'
 gutenberg_type: Text
 identifiers:
